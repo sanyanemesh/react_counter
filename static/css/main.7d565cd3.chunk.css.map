@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,QACE,WAAY,CACZ,WAAY,CACZ,iBAAkB,CAClB,sBACF","file":"main.7d565cd3.chunk.css","sourcesContent":[".button {\n  width: 100px;\n  height: 50px;\n  border-radius: 25%;\n  background-color: green;\n}\n"]}
